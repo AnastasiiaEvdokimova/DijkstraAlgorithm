@@ -1,0 +1,29 @@
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\skylin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\App.g.cs
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\anast\Downloads\Dijkstra's algorithm\WpfApp1\obj\Debug\WpfApp1.pdb
